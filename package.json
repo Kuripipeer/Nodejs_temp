@@ -1,0 +1,28 @@
+{
+  "name": "curso-node",
+  "version": "1.0.0",
+  "description": "Curso de Node gratuito",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kuripipeer/Nodejs_temp.git"
+  },
+  "keywords": [
+    "curso",
+    "node",
+    "nodejs",
+    "kuri"
+  ],
+  "author": "Christian Moreno - Kuri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kuripipeer/Nodejs_temp/issues"
+  },
+  "homepage": "https://github.com/Kuripipeer/Nodejs_temp#readme",
+  "dependencies": {
+    "picocolors": "^1.0.1"
+  }
+}
